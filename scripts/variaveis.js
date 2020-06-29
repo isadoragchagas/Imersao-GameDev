@@ -5,17 +5,21 @@ let imagemInimigoGrande;
 let imagemInimigoVoador;
 let imagemGameOver;
 let imagemTelaInicial;
+let imagemHipsta;
+let imagemVida;
 let fonteTelaInicial;
 let somDoPulo;
 let jogo;
+let fita;
 
 let cenaAtual = 'telaInicial';
 let cenas;
 let telaInicial;
 let botao;
-
+let vida;
 
 let cenario;
+let somGameOver;
 let somDoJogo;
 let personagem;
 let inimigo;
